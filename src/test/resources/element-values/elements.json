@@ -1,0 +1,137 @@
+[
+  {
+    "key": "Username",
+    "value": "[placeholder=Username]",
+    "type": "css"
+  },
+  {
+    "key": "Password",
+    "value": "[placeholder=Password]",
+    "type": "css"
+  },
+  {
+    "key": "LoginBtn",
+    "value": "[class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13qz1uu']",
+    "type": "css"
+  },
+  {
+    "key": "LoginForm",
+    "value": "[class='css-175oi2r r-1awozwy r-13awgt0 r-ywje51 r-d23pfw r-1rttkqs']",
+    "type": "css"
+  },
+  {
+    "key": "Logout",
+    "value": "[class='css-146c3p1 r-jwli3a r-vw2c0b r-1d4mawv']",
+    "type": "css"
+  },
+  {
+    "key": "CalculatorBtn",
+    "value": "//*[text()='Open Calculator']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorForm",
+    "value": "[class='css-175oi2r r-11c0sde r-1ik5qf4 r-13qz1uu']",
+    "type": "css"
+  },
+  {
+    "key": "CalculatorACBtn",
+    "value": "//div[text()='AC']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorPMBtn",
+    "value": "//div[text()='+/-']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorDivisionBtn",
+    "value": "//div[text()='/']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorMultiplicationBtn",
+    "value": "//div[text()='*']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorAdditionBtn",
+    "value": "//div[text()='+']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorSubtractionBtn",
+    "value": "//div[text()='-']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorEqualsBtn",
+    "value": "//div[text()='=']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorCommaBtn",
+    "value": "//div[text()=',']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorZeroBtn",
+    "value": "//div[text()='0']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorOneBtn",
+    "value": "//div[text()='1']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorTwoBtn",
+    "value": "//div[text()='2']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorThreeBtn",
+    "value": "//div[text()='3']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorFourBtn",
+    "value": "//div[text()='4']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorFiveBtn",
+    "value": "//div[text()='5']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorSixBtn",
+    "value": "//div[text()='6']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorSevenBtn",
+    "value": "//div[text()='7']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorEightBtn",
+    "value": "//div[text()='8']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorNineBtn",
+    "value": "//div[text()='9']",
+    "type": "xpath"
+  },
+  {
+    "key": "CalculatorResultTxt",
+    "value": "//span[@class='css-1jxf684 r-zz5t5d r-vw2c0b r-1ff274t'][text()]",
+    "type": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "value": "xxxx",
+    "type": "xxxx"
+  }
+]

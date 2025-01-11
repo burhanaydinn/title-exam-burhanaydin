@@ -1,0 +1,107 @@
+Created by burhanaydinn on 9.01.2025
+
+This is a concept file with following syntax for each concept.
+# Hesap makinesi acilir
+* "CalculatorBtn" elementini kontrol et
+* Elementine tikla "CalculatorBtn"
+* Elementinin yuklenmesini bekle "CalculatorForm"
+* "2" saniye bekle
+
+# Carpi ikonuna tiklanir
+* "CalculatorMultiplicationBtn" elementini kontrol et
+* Elementine tikla "CalculatorMultiplicationBtn"
+
+# Cikarma ikonuna tiklanir
+* "CalculatorSubtractionBtn" elementini kontrol et
+* Elementine tikla "CalculatorSubtractionBtn"
+
+# Bölme ikonuna tiklanir
+* "CalculatorDivisionBtn" elementini kontrol et
+* Elementine tikla "CalculatorDivisionBtn"
+
+# Toplama ikonuna tiklanir
+* "CalculatorAdditionBtn" elementini kontrol et
+* Elementine tikla "CalculatorAdditionBtn"
+
+# Esittir ikonuna tiklanir
+* "CalculatorEqualsBtn" elementini kontrol et
+* Elementine tikla "CalculatorEqualsBtn"
+* "2" saniye bekle
+
+# Silme ikonuna tiklanir
+* "CalculatorACBtn" elementini kontrol et
+* Elementine tikla "CalculatorACBtn"
+
+# Sonuc kontrol ve kayit edilir
+* Elementinin yuklenmesini bekle "CalculatorResultTxt"
+* "CalculatorResultTxt" li elementi bul ve sonuc değerini "HesaplamaSonucu" olarak sakla
+
+# Yatirim tutari girilir
+* "CalculatorOneBtn" elementini kontrol et
+* Elementine tikla "CalculatorOneBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+
+# Faiz orani girilir
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorCommaBtn" elementini kontrol et
+* Elementine tikla "CalculatorCommaBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorFiveBtn" elementini kontrol et
+* Elementine tikla "CalculatorFiveBtn"
+
+# Gelir tutari girilir
+* "CalculatorOneBtn" elementini kontrol et
+* Elementine tikla "CalculatorOneBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+
+# Gider tutari girilir
+* "CalculatorEightBtn" elementini kontrol et
+* Elementine tikla "CalculatorEightBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+
+# Gunluk gider yemek girilir
+* "CalculatorTwoBtn" elementini kontrol et
+* Elementine tikla "CalculatorTwoBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+
+# Gunluk gider ulasim girilir
+* "CalculatorOneBtn" elementini kontrol et
+* Elementine tikla "CalculatorOneBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+
+# Gunluk gider kahve girilir
+* "CalculatorFiveBtn" elementini kontrol et
+* Elementine tikla "CalculatorFiveBtn"
+
+# Yillik yatirim tutari girilir
+* "CalculatorTwoBtn" elementini kontrol et
+* Elementine tikla "CalculatorTwoBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+
+# Yillik faiz orani girilir
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorCommaBtn" elementini kontrol et
+* Elementine tikla "CalculatorCommaBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorFourBtn" elementini kontrol et
+* Elementine tikla "CalculatorFourBtn"

@@ -1,0 +1,32 @@
+Created by burhanaydinn on 9.01.2025
+
+This is a concept file with following syntax for each concept.
+# Catchylabs web sayfasi acilir
+* "2" saniye bekle
+* Su an ki URL "https://catchylabs-webclient.testinium.com/signIn" degerini iceriyor mu kontrol et
+
+# Kullanici adi alanina <username> yazilir
+* "Username" elementini kontrol et
+* <username> textini "Username" elemente yaz
+
+# Sifre alanina <password> yazilir
+* "Password" elementini kontrol et
+* <password> textini "Password" elemente yaz
+
+# Catchylabs login icin <username> ve sifre ile yapilir
+* Elementinin yuklenmesini bekle "LoginForm"
+* Kullanici adi alanina <username> yazilir
+* Sifre alanina "Burhan.7786.1508" yazilir
+* Giris yap butonuna tiklanir
+* Oturum acildigi kontrol edilir
+
+# Giris yap butonuna tiklanir
+* "LoginBtn" elementin ustunde bekle
+* "LoginBtn" elementini kontrol et
+* Elementine tikla "LoginBtn"
+* "2" saniye bekle
+
+# Oturum acildigi kontrol edilir
+* Elementinin yuklenmesini bekle "Logout"
+* Elementinin yuklenmesini bekle "CalculatorBtn"
+* "2" saniye bekle
