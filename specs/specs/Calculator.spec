@@ -42,6 +42,7 @@ tags: Calculator, Catchylabs, Web, GunlukGiderTakibi
 * Toplama ikonuna tiklanir
 * Gunluk gider ulasim girilir
 * Toplama ikonuna tiklanir
+* Hesaplama alaninda ikinci toplama ikonu kontrol edilir
 * Gunluk gider kahve girilir
 * Esittir ikonuna tiklanir
 * Sonuc kontrol ve kayit edilir

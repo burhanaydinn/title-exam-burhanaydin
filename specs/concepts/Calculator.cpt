@@ -23,6 +23,9 @@ This is a concept file with following syntax for each concept.
 * "CalculatorAdditionBtn" elementini kontrol et
 * Elementine tikla "CalculatorAdditionBtn"
 
+# Hesaplama alaninda ikinci toplama ikonu kontrol edilir
+* "CalculatorSecondAdditionText" elementini kontrol et
+
 # Esittir ikonuna tiklanir
 * "CalculatorEqualsBtn" elementini kontrol et
 * Elementine tikla "CalculatorEqualsBtn"

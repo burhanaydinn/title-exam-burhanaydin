@@ -22,7 +22,7 @@ Kodun sürdürülebilirliğini ve tekrar kullanılabilirliğini artırmak için 
 
 ### Gereklilikler ve Bağımlılıklar:
 
-- **Java**
+- **Java (1.8)**
 - **Maven** (Bağımlılık yönetimi için)
 - **Git** (Sürüm kontrolü için)
 - **Tarayıcılar:** Chrome, Firefox
@@ -31,7 +31,7 @@ Kodun sürdürülebilirliğini ve tekrar kullanılabilirliğini artırmak için 
 
 ### Sorun Giderme İpuçları:
 
-- **Java Sürüm Hatası:**  Java'nın yüklü olduğundan emin olun.
+- **Java Sürüm Hatası:**  Java (1.8) yüklü olduğundan emin olun.
 - **Bağımlılık Hatası:** mvn clean install komutunu çalıştırarak eksik bağımlılıkları yükleyin.
 - **Tarayıcı Uyumsuzluğu:** Kullanılan tarayıcının uyumlu olduğundan emin olun.
 

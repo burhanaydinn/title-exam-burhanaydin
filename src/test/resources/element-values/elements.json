@@ -130,8 +130,8 @@
     "type": "xpath"
   },
   {
-    "key": "xxxx",
-    "value": "xxxx",
-    "type": "xxxx"
+    "key": "CalculatorSecondAdditionText",
+    "value": "(//*[text()='+'])[3]",
+    "type": "xpath"
   }
 ]
