@@ -13,11 +13,13 @@ Kodun sürdürülebilirliğini ve tekrar kullanılabilirliğini artırmak için 
 
 - **Selenium 4:** Tarayıcı otomasyonu için en son özellikler ve iyileştirmelerden yararlanıldı.
 - **Java:** Temel programlama dili olarak tercih edildi.
-- **Senaryo @Tag Yapılandırması:** Senaryoları etiketleme mekanizmaları ile kategorize edip, etiketlere dayalı seçici test yürütme sağlandı.
+- **Senaryo Tag Yapılandırması:** Senaryoları etiketleme mekanizmaları ile kategorize edip, etiketlere dayalı seçici test yürütme sağlandı.
 - **Gauge:** BDD (Davranış Odaklı Geliştirme) çerçevesi olarak kullanıldı.
 - **Singleton Tasarım Deseni:** Kodun yeniden kullanılabilirliğini ve sürdürülebilirliğini artırmak için uygulandı.
 - **Git:** Sürüm kontrolü ve işbirlikçi geliştirme için entegre edildi.
 - **GaugeReport:** Ayrıntılı test yürütme raporları ve analizler için kullanıldı.
+- **JSON:** Element locator'larını dinamik olarak saklamak ve yönetmek için kullanıldı.
+- **Log4j:** Test süreçlerinde loglama ve hata takibi için kullanıldı.
 
 ---
 
