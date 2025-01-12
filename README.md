@@ -5,13 +5,15 @@
 Bu proje, **Testinium** terfi sınavı kapsamında web test otomasyon süreçlerini kapsayacak şekilde hazırlanmıştır. 
 **Gauge** framework'ü kullanılarak BDD (Davranış Odaklı Geliştirme) yaklaşımı benimsenmiş, test senaryoları anlaşılır ve 
 yönetilebilir hale getirilmiştir. Tarayıcılar arası test otomasyonu için **Selenium 4** tercih edilmiştir. 
-Kodun sürdürülebilirliğini ve tekrar kullanılabilirliğini artırmak için **Singleton** tasarım deseni uygulanmıştır.
+Kodun sürdürülebilirliğini ve tekrar kullanılabilirliğini artırmak için **Singleton** tasarım deseni uygulanmış, 
+WebDriver binary dosyalarının otomatik yönetimi için **Bonigarcia** (WebDriverManager) kullanılmıştır.
 
 ---
 
 ### Kullanılan Teknolojiler:
 
 - **Selenium 4:** Tarayıcı otomasyonu için en son özellikler ve iyileştirmelerden yararlanıldı.
+- **Bonigarcia:** Manuel driver indirme ve yol belirtme ihtiyacını ortadan kaldırarak test otomasyon süreçlerini basitleştirmek amacıyla kullanıldı.
 - **Java:** Temel programlama dili olarak tercih edildi.
 - **Senaryo Tag Yapılandırması:** Senaryoları etiketleme mekanizmaları ile kategorize edip, etiketlere dayalı seçici test yürütme sağlandı.
 - **Gauge:** BDD (Davranış Odaklı Geliştirme) çerçevesi olarak kullanıldı.
