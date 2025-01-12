@@ -63,3 +63,22 @@ tags: Calculator, Catchylabs, Web, YillikYatirimHesaplamasi
 * Esittir ikonuna tiklanir
 * Sonuc kontrol ve kayit edilir
 * "HesaplamaSonucu" ile kaydedilen değer ile "208" değerini karşılaştır
+
+Scenario 5: Kısa Vadeli Yatırım Hesaplaması
+-------------------------------------------
+tags: Calculator, Catchylabs, Web, KisaVadeliYatirimHesaplamasi
+* Catchylabs web sayfasi acilir
+* Catchylabs login icin "burhan.aydin" ve sifre ile yapilir
+* Hesap makinesi acilir
+* Kisa vadeli faiz oranı girilir
+* Carpi ikonuna tiklanir
+* Yatirimin süresi girilir
+* Esittir ikonuna tiklanir
+* Toplama ikonuna tiklanir
+* Faiz formulu bir butonuna tiklanir
+* Esittir ikonuna tiklanir
+* Carpi ikonuna tiklanir
+* Kisa vadeli yatirim tutari girilir
+* Esittir ikonuna tiklanir
+* Sonuc kontrol ve kayit edilir
+* "HesaplamaSonucu" ile kaydedilen değer ile "507.5" değerini karşılaştır

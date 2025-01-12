@@ -108,3 +108,33 @@ This is a concept file with following syntax for each concept.
 * Elementine tikla "CalculatorZeroBtn"
 * "CalculatorFourBtn" elementini kontrol et
 * Elementine tikla "CalculatorFourBtn"
+
+# Kisa vadeli faiz oranı girilir
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorCommaBtn" elementini kontrol et
+* Elementine tikla "CalculatorCommaBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorThreeBtn" elementini kontrol et
+* Elementine tikla "CalculatorThreeBtn"
+
+# Yatirimin süresi girilir
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorCommaBtn" elementini kontrol et
+* Elementine tikla "CalculatorCommaBtn"
+* "CalculatorFiveBtn" elementini kontrol et
+* Elementine tikla "CalculatorFiveBtn"
+
+# Faiz formulu bir butonuna tiklanir
+* "CalculatorOneBtn" elementini kontrol et
+* Elementine tikla "CalculatorOneBtn"
+
+# Kisa vadeli yatirim tutari girilir
+* "CalculatorFiveBtn" elementini kontrol et
+* Elementine tikla "CalculatorFiveBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
+* "CalculatorZeroBtn" elementini kontrol et
+* Elementine tikla "CalculatorZeroBtn"
